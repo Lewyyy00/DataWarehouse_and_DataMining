@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micha\\Pulpit\\Projekt_hurtownie_danych\\OLAP\\PracaDyplomowaOLAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC354F4-8ABD-1113-86F7-1A86C6B301EA}|PracaDyplomowaOLAP\\PracaDyplomowaOLAP.dwproj|C:\\Users\\micha\\Pulpit\\Projekt_hurtownie_danych\\OLAP\\PracaDyplomowaOLAP\\PracaDyplomowaOLAP\\Prace Dyplomowe DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{DEC354F4-8ABD-1113-86F7-1A86C6B301EA}|PracaDyplomowaOLAP\\PracaDyplomowaOLAP.dwproj|solutionrelative:PracaDyplomowaOLAP\\Prace Dyplomowe DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC354F4-8ABD-1113-86F7-1A86C6B301EA}|PracaDyplomowaOLAP\\PracaDyplomowaOLAP.dwproj|C:\\Users\\micha\\Pulpit\\Projekt_hurtownie_danych\\OLAP\\PracaDyplomowaOLAP\\PracaDyplomowaOLAP\\Prace Dyplomowe DW data source views.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{DEC354F4-8ABD-1113-86F7-1A86C6B301EA}|PracaDyplomowaOLAP\\PracaDyplomowaOLAP.dwproj|solutionrelative:PracaDyplomowaOLAP\\Prace Dyplomowe DW data source views.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC354F4-8ABD-1113-86F7-1A86C6B301EA}|PracaDyplomowaOLAP\\PracaDyplomowaOLAP.dwproj|C:\\Users\\micha\\Pulpit\\Projekt_hurtownie_danych\\OLAP\\PracaDyplomowaOLAP\\PracaDyplomowaOLAP\\Dim Data.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{DEC354F4-8ABD-1113-86F7-1A86C6B301EA}|PracaDyplomowaOLAP\\PracaDyplomowaOLAP.dwproj|solutionrelative:PracaDyplomowaOLAP\\Dim Data.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC354F4-8ABD-1113-86F7-1A86C6B301EA}|PracaDyplomowaOLAP\\PracaDyplomowaOLAP.dwproj|C:\\Users\\micha\\Pulpit\\Projekt_hurtownie_danych\\OLAP\\PracaDyplomowaOLAP\\PracaDyplomowaOLAP\\Dim Wydzial.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{DEC354F4-8ABD-1113-86F7-1A86C6B301EA}|PracaDyplomowaOLAP\\PracaDyplomowaOLAP.dwproj|solutionrelative:PracaDyplomowaOLAP\\Dim Wydzial.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC354F4-8ABD-1113-86F7-1A86C6B301EA}|PracaDyplomowaOLAP\\PracaDyplomowaOLAP.dwproj|C:\\Users\\micha\\Pulpit\\Projekt_hurtownie_danych\\OLAP\\PracaDyplomowaOLAP\\PracaDyplomowaOLAP\\Dim Praca Dyplomowa.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{DEC354F4-8ABD-1113-86F7-1A86C6B301EA}|PracaDyplomowaOLAP\\PracaDyplomowaOLAP.dwproj|solutionrelative:PracaDyplomowaOLAP\\Dim Praca Dyplomowa.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC354F4-8ABD-1113-86F7-1A86C6B301EA}|PracaDyplomowaOLAP\\PracaDyplomowaOLAP.dwproj|C:\\Users\\micha\\Pulpit\\Projekt_hurtownie_danych\\OLAP\\PracaDyplomowaOLAP\\PracaDyplomowaOLAP\\Dim Typ Studiow.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{DEC354F4-8ABD-1113-86F7-1A86C6B301EA}|PracaDyplomowaOLAP\\PracaDyplomowaOLAP.dwproj|solutionrelative:PracaDyplomowaOLAP\\Dim Typ Studiow.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dim Wydzial.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\micha\\Pulpit\\Projekt_hurtownie_danych\\OLAP\\PracaDyplomowaOLAP\\PracaDyplomowaOLAP\\Dim Wydzial.dim",
+              "RelativeDocumentMoniker": "PracaDyplomowaOLAP\\Dim Wydzial.dim",
+              "ToolTip": "C:\\Users\\micha\\Pulpit\\Projekt_hurtownie_danych\\OLAP\\PracaDyplomowaOLAP\\PracaDyplomowaOLAP\\Dim Wydzial.dim [Design]",
+              "RelativeToolTip": "PracaDyplomowaOLAP\\Dim Wydzial.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-29T15:57:21.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Prace Dyplomowe DW.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\micha\\Pulpit\\Projekt_hurtownie_danych\\OLAP\\PracaDyplomowaOLAP\\PracaDyplomowaOLAP\\Prace Dyplomowe DW.cube",
+              "RelativeDocumentMoniker": "PracaDyplomowaOLAP\\Prace Dyplomowe DW.cube",
+              "ToolTip": "C:\\Users\\micha\\Pulpit\\Projekt_hurtownie_danych\\OLAP\\PracaDyplomowaOLAP\\PracaDyplomowaOLAP\\Prace Dyplomowe DW.cube [Design]",
+              "RelativeToolTip": "PracaDyplomowaOLAP\\Prace Dyplomowe DW.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-29T15:08:02.977Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dim Praca Dyplomowa.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\micha\\Pulpit\\Projekt_hurtownie_danych\\OLAP\\PracaDyplomowaOLAP\\PracaDyplomowaOLAP\\Dim Praca Dyplomowa.dim",
+              "RelativeDocumentMoniker": "PracaDyplomowaOLAP\\Dim Praca Dyplomowa.dim",
+              "ToolTip": "C:\\Users\\micha\\Pulpit\\Projekt_hurtownie_danych\\OLAP\\PracaDyplomowaOLAP\\PracaDyplomowaOLAP\\Dim Praca Dyplomowa.dim [Design]",
+              "RelativeToolTip": "PracaDyplomowaOLAP\\Dim Praca Dyplomowa.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-29T14:00:34.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Prace Dyplomowe DW data source views.dsv [Design]",
+              "DocumentMoniker": "C:\\Users\\micha\\Pulpit\\Projekt_hurtownie_danych\\OLAP\\PracaDyplomowaOLAP\\PracaDyplomowaOLAP\\Prace Dyplomowe DW data source views.dsv",
+              "RelativeDocumentMoniker": "PracaDyplomowaOLAP\\Prace Dyplomowe DW data source views.dsv",
+              "ToolTip": "C:\\Users\\micha\\Pulpit\\Projekt_hurtownie_danych\\OLAP\\PracaDyplomowaOLAP\\PracaDyplomowaOLAP\\Prace Dyplomowe DW data source views.dsv [Design]",
+              "RelativeToolTip": "PracaDyplomowaOLAP\\Prace Dyplomowe DW data source views.dsv [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-29T11:25:23.61Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dim Data.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\micha\\Pulpit\\Projekt_hurtownie_danych\\OLAP\\PracaDyplomowaOLAP\\PracaDyplomowaOLAP\\Dim Data.dim",
+              "RelativeDocumentMoniker": "PracaDyplomowaOLAP\\Dim Data.dim",
+              "ToolTip": "C:\\Users\\micha\\Pulpit\\Projekt_hurtownie_danych\\OLAP\\PracaDyplomowaOLAP\\PracaDyplomowaOLAP\\Dim Data.dim [Design]",
+              "RelativeToolTip": "PracaDyplomowaOLAP\\Dim Data.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-28T21:17:13.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dim Typ Studiow.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\micha\\Pulpit\\Projekt_hurtownie_danych\\OLAP\\PracaDyplomowaOLAP\\PracaDyplomowaOLAP\\Dim Typ Studiow.dim",
+              "RelativeDocumentMoniker": "PracaDyplomowaOLAP\\Dim Typ Studiow.dim",
+              "ToolTip": "C:\\Users\\micha\\Pulpit\\Projekt_hurtownie_danych\\OLAP\\PracaDyplomowaOLAP\\PracaDyplomowaOLAP\\Dim Typ Studiow.dim [Design]",
+              "RelativeToolTip": "PracaDyplomowaOLAP\\Dim Typ Studiow.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-29T15:04:17.48Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

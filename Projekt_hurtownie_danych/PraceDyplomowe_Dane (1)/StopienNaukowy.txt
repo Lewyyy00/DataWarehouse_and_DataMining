@@ -1,0 +1,10 @@
+1; 
+2; inz.
+3; mgr
+4; mgr inz. 
+5; dr
+6; dr. inz
+7; dr hab
+8; dr hab inz.
+9; prof dr hab
+10; prof dr hab inz.

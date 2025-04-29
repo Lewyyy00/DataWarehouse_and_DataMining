@@ -1,0 +1,19 @@
+1; Administracji i Nauk Spolecznych 
+2; Architektury
+3; Chemiczny
+4; Elektroniki i Technik Informacyjnych
+5; Elektryczny
+6; Fizyki
+7; Geodezji i Kartografii
+8; Inzynierii Chemicznej i Procesowej
+9; Inzynierii Ladowej
+10; Inzynierii Materialowej
+11; Inzynierii Produkcji
+12; Inzynierii Srodowiska
+13; Matematyki i Nauk Informacyjnych
+14; Mechaniczny Energetyki i Lotnictwa
+15; Mechatroniki
+16; Samochodów i Maszyn Roboczych
+17; Transportu
+18; Zarzadzania
+19; Budownictwa, Mechaniki i Petrochemii w Plocku
